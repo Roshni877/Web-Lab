@@ -1,0 +1,41 @@
+body{
+background-color:lightblue;
+}
+h2{
+color:navy;
+margin-left:40px;
+font-size:75px;
+}
+p{
+color:red;
+text-align:center;
+font-size:25px;
+}
+div p{
+background-color:yellow;
+}
+
+img{
+opacity:1.0;
+}
+div img{
+opacity:0.5;
+}
+a:hover {
+background-color:yellow;
+font-size:60px;
+}
+#para1{
+text-align:center;
+color:red;
+}
+.center{
+text-align:center;
+color:green;
+}
+p.center{
+text-align:center;
+color:black;
+}
+
+
